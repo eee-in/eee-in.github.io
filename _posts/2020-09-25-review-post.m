@@ -2,6 +2,9 @@
 layout: post
 title: Review of Shelley-Godwin Archive Project
 --- 
+**Project Name**: Shelley-Godwin Archive
+**Project Directors**: Neil Fraistat, Raffaele Viglianti, Elizabeth C. Denlinger, Charles Carter, Pamela Clemit, Michelle Faubert
+**Project URL**: [Shelley-Godwin Archive](http://shelleygodwinarchive.org/)
 
 The Shelley-Godwin Archive is a digital archival effort to gather and digitize the manuscripts of Mary Wollstonecraft Shelley’s family: Mary Shelley, Percy Bysshe Shelley, Peter Godwin, and Mary Wollstonecraft. The handwritten manuscripts of these authors are scattered through several different collections across continents, but now academic scholars have a centralized digital archive to refer to as a source. A unique collection from the single most influential family of writers in the Western Literary canon, the archive chronicles their lives, thoughts, and the development of several works that have become cemented in the literary consciousness of the Western world.  
 
