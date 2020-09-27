@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Review Post-Music Encoding Initiative
+title: Review of Shelley-Godwin Archive Project
 ---
-![Early draft of _Frankenstein_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F393431717432000148%2F&psig=AOvVaw2Pe5BGXj3WYW60bNN0YZvM&ust=1601335301756000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiy7oC9iuwCFQAAAAAdAAAAABAD)
+![Early draft of Frankenstein]()
 The Shelley-Godwin Archive is a digital archival effort to gather and digitize the manuscripts of Mary Wollstonecraft Shelley’s family: Mary Shelley, Percy Bysshe Shelley, Peter Godwin, and Mary Wollstonecraft. The handwritten manuscripts of these authors are scattered through several different collections across continents, but now academic scholars have a centralized digital archive to refer to as a source. A unique collection from the single most influential family of writers in the Western Literary canon, the archive chronicles their lives, thoughts, and the development of several works that have become cemented in the literary consciousness of the Western world.
  
 The archive itself is the result of a continuing partnership between the Maryland Institute for Technology in the Humanities and the New York Public Library. Contributions to their collection also come from across the Atlantic out of Oxford’s Bodleian Library, Huntington Library, British Library, Houghton Library, and the Victoria and Albert Museum. The entirety of this collection contains over 90% of all manuscripts relevant to documenting the bibliographical development of “England’s First Family of Writers.” An epithet coined by author Julie A. Carson, the family including Mary Shelley’s husband would work almost exclusively alone on works that included _A Vindication of the Rights of Women_, some of the most influential and beautiful poetry in the English language, as well as Mary Shelley’s _Frankenstein, or the Modern Prometheus_, a haunting story that has achieved mythic status while being the first real science fiction story in the English canon.
