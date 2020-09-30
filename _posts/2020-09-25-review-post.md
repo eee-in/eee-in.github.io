@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Review of Shelley-Godwin Archive Project
---- 
+---
+
+!(Draft Page from Frankenstein)[https://www.google.com/url?sa=i&url=https%3A%2F%2Fedwardfjames.com%2Fteaching%2Ffrankenstein-1816-17-and-1818%2F&psig=AOvVaw2zYTaoCGOEFF2dQej6_h8G&ust=1601569207092000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC77rKkkewCFQAAAAAdAAAAABAD]
+
 **Project Name**: Shelley-Godwin Archive
 
 **Project Directors**: Neil Fraistat, Raffaele Viglianti, Elizabeth C. Denlinger, Charles Carter, Pamela Clemit, Michelle Faubert
